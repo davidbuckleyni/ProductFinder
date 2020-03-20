@@ -1,15 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "PgCnnbSuEPKCEL70cSZk9zTMaJrEtF78Sg6jzE97mY+H84ejZqlkyCqiGG4oxYgNegn7u7UcI+C0u7xu8p5NGg==",
+  "dgSpecHash": "I/ZXhYY/XxwgCcaRmEGauFhX7GH7ro1IBfFgyw0AK8wZwyDD6mlJn6A4va7Vpej0EPL86PVeEim/5OkljQSJVA==",
   "success": true,
   "projectFilePath": "D:\\GitMaster\\ProductFinder\\ProductFinder\\ProductFinder\\ProductFinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\skiasharp\\1.68.0\\skiasharp.1.68.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\skiasharp.views.forms\\1.68.0\\skiasharp.views.forms.1.68.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\telerik.ui.for.xamarin\\2019.2.619.1\\telerik.ui.for.xamarin.2019.2.619.1.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\xamarin.essentials\\1.5.1\\xamarin.essentials.1.5.1.nupkg.sha512",
-    "C:\\Users\\David\\.nuget\\packages\\xamarin.forms\\4.6.0.379-pre1\\xamarin.forms.4.6.0.379-pre1.nupkg.sha512"
+    "C:\\Users\\David\\.nuget\\packages\\xamarin.forms\\4.6.0.379-pre1\\xamarin.forms.4.6.0.379-pre1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\xamarin.forms.googlemaps\\3.3.0\\xamarin.forms.googlemaps.3.3.0.nupkg.sha512"
   ],
   "logs": []
 }

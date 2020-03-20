@@ -1,0 +1,8 @@
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\bin\Debug\netcoreapp3.1\ProductFinderCore.deps.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\bin\Debug\netcoreapp3.1\ProductFinderCore.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\bin\Debug\netcoreapp3.1\ProductFinderCore.pdb
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\obj\Debug\netcoreapp3.1\ProductFinderCore.csproj.CoreCompileInputs.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\obj\Debug\netcoreapp3.1\ProductFinderCore.AssemblyInfoInputs.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\obj\Debug\netcoreapp3.1\ProductFinderCore.AssemblyInfo.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\obj\Debug\netcoreapp3.1\ProductFinderCore.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderCore\ProductFinderCore\obj\Debug\netcoreapp3.1\ProductFinderCore.pdb

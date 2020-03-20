@@ -3,3 +3,12 @@ D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\bin\Debug\netcoreap
 D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.csprojAssemblyReference.cache
 D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.AssemblyInfoInputs.cache
 D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.AssemblyInfo.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\bin\Debug\netcoreapp3.1\ProductFinderDal.deps.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\bin\Debug\netcoreapp3.1\ProductFinderDal.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\bin\Debug\netcoreapp3.1\ProductFinderDal.pdb
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.csprojAssemblyReference.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.csproj.CoreCompileInputs.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.AssemblyInfoInputs.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.AssemblyInfo.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.pdb

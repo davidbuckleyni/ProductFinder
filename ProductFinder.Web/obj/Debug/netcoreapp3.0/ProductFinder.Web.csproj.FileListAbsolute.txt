@@ -2,7 +2,6 @@ D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\appsettings.json
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\ProductFinder.Web.exe
-D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.csprojAssemblyReference.cache
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.AssemblyInfoInputs.cache
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.AssemblyInfo.cs
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.RazorTargetAssemblyInfo.cache
@@ -11,3 +10,14 @@ D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\Dapper.dll
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.csproj.CopyComplete
 D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\Dapper.Contrib.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\ProductFinder.Web.deps.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\ProductFinder.Web.runtimeconfig.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\ProductFinder.Web.runtimeconfig.dev.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\ProductFinder.Web.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\ProductFinder.Web.pdb
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\DapperExtensions.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.csproj.CoreCompileInputs.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.pdb
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.genruntimeconfig.cache

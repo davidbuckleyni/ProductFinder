@@ -1,0 +1,14 @@
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\bin\Debug\netstandard2.0\ProductFinder.deps.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\bin\Debug\netstandard2.0\ProductFinder.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\ProductFinder.AssemblyInfoInputs.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\ProductFinder.AssemblyInfo.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\ProductFinder.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\ref\ProductFinder.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\ProductFinder.pdb
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\bin\Debug\netstandard2.0\ref\ProductFinder.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\bin\Debug\netstandard2.0\ProductFinder.pdb
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\Views\ProductSearch.xaml.g.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder\obj\Debug\netstandard2.0\ProductFinder.csprojAssemblyReference.cache

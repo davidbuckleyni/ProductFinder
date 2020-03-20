@@ -2,7 +2,7 @@
 using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using ProductFinder.Services;
+ 
 using ProductFinder.Views;
 
 namespace ProductFinder
@@ -20,10 +20,7 @@ namespace ProductFinder
         {
             InitializeComponent();
 
-            if (UseMockDataStore)
-                DependencyService.Register<MockDataStore>();
-            else
-                DependencyService.Register<AzureDataStore>();
+          
             MainPage = new AppShell();
         }
 
