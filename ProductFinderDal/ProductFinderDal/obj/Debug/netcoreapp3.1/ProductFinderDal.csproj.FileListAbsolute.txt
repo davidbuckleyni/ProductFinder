@@ -1,0 +1,5 @@
+D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\bin\Debug\netcoreapp3.1\ProductFinderDal.deps.json
+D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\bin\Debug\netcoreapp3.1\ProductFinderDal.dll
+D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.csprojAssemblyReference.cache
+D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.AssemblyInfoInputs.cache
+D:\GitMaster\ProductFinder\ProductFinderDal\ProductFinderDal\obj\Debug\netcoreapp3.1\ProductFinderDal.AssemblyInfo.cs

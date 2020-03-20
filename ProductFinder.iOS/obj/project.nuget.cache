@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "/YIoRWxwER4FAyYn+OjvsyWfq908WUIbqFRIezFlvEyqx3F31gfOLuvj+3fmnbR9EYt2owUgxr4qRzBm/h5elA==",
+  "success": true,
+  "projectFilePath": "D:\\GitMaster\\ProductFinder\\ProductFinder\\ProductFinder.iOS\\ProductFinder.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\xamarin.forms\\4.5.0.356\\xamarin.forms.4.5.0.356.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Newtonsoft.Json from 12.0.3 to 11.0.2. Reference the package directly from the project to select a different version. \r\n ProductFinder.iOS -> ProductFinder -> Newtonsoft.Json (>= 12.0.3) \r\n ProductFinder.iOS -> Newtonsoft.Json (>= 11.0.2)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.5.1 to 1.3.1. Reference the package directly from the project to select a different version. \r\n ProductFinder.iOS -> ProductFinder -> Xamarin.Essentials (>= 1.5.1) \r\n ProductFinder.iOS -> Xamarin.Essentials (>= 1.3.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.6.0.379-pre1 to 4.5.0.356. Reference the package directly from the project to select a different version. \r\n ProductFinder.iOS -> ProductFinder -> Xamarin.Forms (>= 4.6.0.379-pre1) \r\n ProductFinder.iOS -> Xamarin.Forms (>= 4.5.0.356)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

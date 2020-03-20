@@ -1,0 +1,13 @@
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\appsettings.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\ProductFinder.Web.exe
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.csprojAssemblyReference.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.AssemblyInfoInputs.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.AssemblyInfo.cs
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.RazorTargetAssemblyInfo.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\staticwebassets\ProductFinder.Web.StaticWebAssets.Manifest.cache
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\staticwebassets\ProductFinder.Web.StaticWebAssets.xml
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\Dapper.dll
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\obj\Debug\netcoreapp3.0\ProductFinder.Web.csproj.CopyComplete
+D:\GitMaster\ProductFinder\ProductFinder\ProductFinder.Web\bin\Debug\netcoreapp3.0\Dapper.Contrib.dll
